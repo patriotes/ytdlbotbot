@@ -8,6 +8,6 @@ docker run -d --restart unless-stopped --name ytdl \
      -e MYSQL_HOST=192.168.6.1 \
      -e WORKERS=4 \
      -e VIP=True \
-     -e CUSTOM_TEXT=#StandWithUkraine \
+     -e CUSTOM_TEXT=#WWG1WGA \
      bennythink/ytdlbot \
      /usr/local/bin/supervisord -c "/ytdlbot/conf/supervisor_worker.conf"
