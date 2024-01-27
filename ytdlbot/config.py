@@ -17,7 +17,7 @@ PYRO_WORKERS: int = int(os.getenv("PYRO_WORKERS", 100))
 APP_ID: int = int(os.getenv("APP_ID", 198214))
 APP_HASH = os.getenv("APP_HASH", "1234b90")
 TOKEN = os.getenv("TOKEN", "1234")
-BIN_CHANNEL = os.getenv("BIN_CHANNEL", "12345")
+BIN_CHANNEL = os.getenv("BIN_CHANNEL", "12345678")
 REDIS = os.getenv("REDIS", "redis")
 
 TG_PREMIUM_MAX_SIZE = 4000 * 1024 * 1024
