@@ -23,17 +23,17 @@ from utils import get_func_queue
 
 class BotText:
     start = """
-    Welcome to YouTube Download bot. Type /help for more information. 
-    Backup bot: @benny_2ytdlbot
-    Join https://t.me/+OGRC8tp9-U9mZDZl for updates."""
+    Bienvenue sur le robot de téléchargement YouTube. Taper /help pour plus d'informations. 
+    Backup bot: @architecte_q
+    Join https://t.me/ArchitectePatriotes for updates."""
 
     help = f"""
-1. If the bot doesn't work, try again or join https://t.me/+OGRC8tp9-U9mZDZl for updates.
+1.Si le bot ne fonctionne pas, réessayez ou rejoignez-nous https://t.me/ArchitectePatriotes pour les mises à jour.
 
-2. Source code: https://github.com/tgbot-collection/ytdlbot
+2. Source code: https://github.com/patriotes/ytdlbotbot
     """
 
-    about = "YouTube Downloader by @BennyThink.\n\nOpen source on GitHub: https://github.com/tgbot-collection/ytdlbot"
+    about = "YouTube Downloader by @architecte_q.\n\nOpen source on GitHub: https://github.com/patriotes/ytdlbotbot"
 
     buy = f"""
 **Terms:**
