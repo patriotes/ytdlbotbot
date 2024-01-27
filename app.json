@@ -19,8 +19,12 @@
     "APP_HASH": {
       "description": "APP HASH",
       "value": "12345abc"
-    },
-    "OWNER": {
+     },
+      "BIN_CHANNEL": {
+          "description": "The BIN Channel ID. Read the readme for more info about this var"
+          "value": "12345678"
+     },
+     "OWNER": {
       "description": "Your telegram username",
       "value": "username",
       "required": false
